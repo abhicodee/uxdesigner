@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.card {
+  padding: 70px 128px;
+  border-radius: 20px;
+  position: relative ;
+  bottom: -32px;
+  right: -10px;
+}
+.text{
+    position: relative;
+    top:14px;
+    color:darkgrey;
+      font-family: 'Open Sans', sans-serif;
+}
+#no{
+    position: relative;
+    top:10px;
+    font-family: 'Open Sans', sans-serif;
+}
+#cal-style{
+    padding:10px 10px;
+   position:relative;
+   left:-60px;
+   bottom:20px;
+     border:2px solid;
+     border-radius: 20px;
+}
+

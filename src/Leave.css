@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.myleave{
+    margin-top: 40px;
+    padding: 200px 200px;
+    background-color:lightgrey;
+}
+#upper{
+   margin-top: -180px;
+   margin-left: -160px;
+     font-weight: bold;
+   font-size: 28px;
+    font-family: 'Open Sans', sans-serif;
+}
+#arrow{
+  position: relative;
+  top:-34px;
+  left:1000px;
+  font-style: bold;
+}
+@media screen and (max-width:480px) {
+  .myleave{
+    width:100vh;
+  }
+}

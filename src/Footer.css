@@ -1,0 +1,65 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.profile{
+    margin-left: 200px;
+    margin-top: -34px;
+}
+#tprofile{
+    margin-left: 180px;
+}
+.team{
+    margin-left: 380px;
+    margin-top: -32px;
+}
+#tteam{
+    margin-left: 360px;
+}
+.setting{
+    margin-top: -40px;
+    margin-left: 1140px;
+}
+.home{
+    margin-left: 20px;
+}
+#thome{
+    margin-left: 12px;
+}
+@media screen and (max-width:480px) {
+    .profile{
+        margin-left: 48px;
+        margin-top: -34px;
+    }
+    #tprofile{
+        margin-left: -1px;
+        margin-left: 28px;
+    }
+    .team{
+        margin-left:100px;
+        margin-top: -38px;
+    }
+    #tteam{
+        margin-left: -2px;
+        margin-left: 80px;
+    }
+    .setting{
+        margin-top: -34px;
+        margin-left: 300px;
+    }
+    #tsetting{
+        margin-left: -10px;
+    }
+    .home{
+        margin-left: 20px;
+    }
+    #thome{
+        margin-left: 12px;
+    }
+}
+#footer-head{
+   
+position: sticky;
+
+}
